@@ -1,0 +1,9 @@
+Word document - screenshots and decision outline
+SQL DDL
+SQL DML
+
+
+<File Contents>
+	Student No.
+	Coments on SQL/set of SQL statements
+	No errors
