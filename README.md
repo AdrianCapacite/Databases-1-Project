@@ -7,4 +7,4 @@ types, table attributes duplication, and naming conflicts with SQL keywords.
 Non-key constraints have been implemented to ensure data integrity. An ERD represents
 the logical model, while a physical model is provided for implementation in a specific DBMS.
 
-![Restaurant Database Physical ERD](restaurant_physical_v3.png)
+![Restaurant Database Physical ERD](restaurant_physical_V3.png)
